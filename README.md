@@ -1,4 +1,6 @@
-# Computing for AI: A Practicum AI Course
+# HTDM first notes practice
+*H2 Learn more about markdown writing
+*Run a successful job
 
 ![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) <img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_computing_for_ai.png' align='right' width=100>
 
